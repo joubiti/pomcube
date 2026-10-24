@@ -1,1 +1,8 @@
 mechanical/*.FCBak
+hardware/pomcube/*-backups/
+hardware/pomcube/*.bak
+hardware/pomcube/*.bck
+hardware/pomcube/*.kicad_pcb-bak
+hardware/pomcube/*.kicad_sch-bak
+hardware/pomcube/*-bak
+hardware/pomcube/_autosave-*
